@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+nav a {
+    border-bottom: 3px solid black;
+    margin: 30px;
+}
+
+nav {
+    text-align: center;
+    padding: 15px
+}
+
+h1 {
+    text-align: center;
+}
+
+.kartinki {
+    text-align: center;
+
+}
+
+main img {
+    border-left: 10px dotted black;
+    margin: 20px;
+}
+
+.text {
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+footer {
+    background-color: black;
+    padding: 5px
+}
+
+footer p {
+    background-color: white;
+    padding: 5px
+}
